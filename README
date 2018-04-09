@@ -1,7 +1,4 @@
-flask-testing
+# flask-testing
 
-Unit testing support for Flask. 
+Unit testing support for Flask.  Fork of [jarus/flask-testing](https://github.com/jarus/flask-testing). Works on Windows (thanks to danchr).
 
-For full information please refer to the online docs:
-
-https://flask-testing.readthedocs.io/en/latest/
